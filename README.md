@@ -1,6 +1,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-93-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/koushik-ms/rustlings)
 
 # rustlings 🦀❤️
 
@@ -51,9 +52,9 @@ When you get a permission denied message then you have to exclude the directory 
 
 ## Browser:
 
-[Run on Repl.it](https://repl.it/github/rust-lang/rustlings)
+[Run on Repl.it](https://repl.it/github/koushik-ms/rustlings)
 
-[Open in Gitpod](https://gitpod.io/#https://github.com/rust-lang/rustlings)
+[Open in Gitpod](https://gitpod.io/#https://github.com/koushik-ms/rustlings)
 
 ## Manually
 
